@@ -1,0 +1,12 @@
+/Users/southwestuniversity/Desktop/CS 131 MyGram/MyGram/MyGram/bin/Debug/netcoreapp3.1/MyGram.deps.json
+/Users/southwestuniversity/Desktop/CS 131 MyGram/MyGram/MyGram/bin/Debug/netcoreapp3.1/MyGram.runtimeconfig.json
+/Users/southwestuniversity/Desktop/CS 131 MyGram/MyGram/MyGram/bin/Debug/netcoreapp3.1/MyGram.runtimeconfig.dev.json
+/Users/southwestuniversity/Desktop/CS 131 MyGram/MyGram/MyGram/bin/Debug/netcoreapp3.1/MyGram.dll
+/Users/southwestuniversity/Desktop/CS 131 MyGram/MyGram/MyGram/bin/Debug/netcoreapp3.1/MyGram.pdb
+/Users/southwestuniversity/Desktop/CS 131 MyGram/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.csprojAssemblyReference.cache
+/Users/southwestuniversity/Desktop/CS 131 MyGram/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.AssemblyInfoInputs.cache
+/Users/southwestuniversity/Desktop/CS 131 MyGram/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.AssemblyInfo.cs
+/Users/southwestuniversity/Desktop/CS 131 MyGram/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.csproj.CoreCompileInputs.cache
+/Users/southwestuniversity/Desktop/CS 131 MyGram/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.dll
+/Users/southwestuniversity/Desktop/CS 131 MyGram/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.pdb
+/Users/southwestuniversity/Desktop/CS 131 MyGram/MyGram/MyGram/obj/Debug/netcoreapp3.1/MyGram.genruntimeconfig.cache
