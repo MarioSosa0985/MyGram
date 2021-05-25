@@ -7,12 +7,17 @@ namespace MyGram
     {
         static void Main(string[] args)
         {
-            UsersDTO myUser = new UsersDTO();
-            myUser.UserId = 1;
-            myUser.UserName = "Mario Sosa";
+            DateTime myFirstDate = new DateTime(2003, 7, 15);
+            DateTime mySecondDate = new DateTime(2005, 2, 8);
 
-            Console.WriteLine(myUser.UserId);
-            Console.WriteLine(myUser.UserName);
+            if(myFirstDate>mySecondDate)
+            {
+                Console.WriteLine("First date is greater than the second date");
+            }
+            else
+            {
+                Console.WriteLine("First date is lower than the second date");
+            }
         }
     }
 }
